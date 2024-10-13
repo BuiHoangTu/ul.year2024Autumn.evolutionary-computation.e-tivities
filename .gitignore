@@ -1,3 +1,6 @@
 # test files
 test*
 .test*
+
+# python
+__pycache__/
