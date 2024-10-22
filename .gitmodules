@@ -1,3 +1,6 @@
 [submodule "grape"]
 	path = grape
 	url = https://github.com/UL-BDS/grape.git
+[submodule "mid-project"]
+	path = mid-project
+	url = git@github.com:BuiHoangTu/ul.year2024Autumn.evolutionary-computation.mid-project.git
